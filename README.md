@@ -1,5 +1,7 @@
 # ZeroID 🚀
 
+### This is a WIP, stay tuned for final version
+
 ### A Cloudless, Decentralized DID Key Generator & Identity Verification Library
 
 ZeroID is an **open-source, cloudless, and privacy-focused** identity system for generating **Decentralized Identifiers (DIDs)** and verifying age or identity **without relying on Google, Microsoft, or any cloud services**. It uses **OCR, QR codes, and cryptographic DID keypairs** to provide **self-sovereign identity**.
