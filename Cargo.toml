@@ -8,7 +8,7 @@ license = "MPL-2.0"
 repository = "https://github.com/goldilocksfashion/zeroid"
 readme = "README.md"
 keywords = ["DID", "identity", "decentralized", "zero-knowledge", "privacy"]
-categories = ["cryptography", "authentication", "p2p"]
+categories = ["cryptography", "authentication"]
 exclude = [".github", "tests", "examples"]
 
 [dependencies]
